@@ -6,3 +6,6 @@ git clone https://github.com/SoundarBalaji-thinkbridge/transcriptor_g
 
 step 2:
 pip install -r requirements.txt
+
+step3:
+uvicorn main:app
